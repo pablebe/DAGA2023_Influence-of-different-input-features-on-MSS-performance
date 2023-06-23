@@ -47,7 +47,7 @@ Within the folder `Training_VQTSpec_based_open_unmix` large parts of the [Open-U
 ## Evaluation
 The folder `Evaluation_open_unmix_models` contains all files to evaluate the trained models and plot the results as published in ([Bereuter & Sontacchi](https://pub.dega-akustik.de/DAGA_2023/data/articles/000539.pdf)) using the same metrics as for the [SISEC 2018](https://github.com/sigsep/sigsep-mus-2018), where the [BSS-Eval](https://sigsep.github.io/sigsep-mus-eval/) metrics by ([Vincent, Gribonval, Fevotte, 2006](https://ieeexplore.ieee.org/document/1643671/authors#authors)) are used to evaluate MSS performance.
 
-Please note that for the evaluation of all models, the weights of the trained models are needed. The folder `Trained_models` contains all weights of the trained models, and it should be copied into the root folder of the repository (same level as `Evaluation_open_unmix_models`). The folder `Trained_models` can be downloaded in form of a *.zip*-file from the assets section.
+Please note that for the evaluation of all models, the weights of the trained models are needed. The folder `Trained_models` contains all weights of the trained models, and it should be copied into the root folder of the repository (same level as `Evaluation_open_unmix_models`). The folder `Trained_models` can be downloaded in form of a *.zip*-file from the assets of the latest release.
 
 ## Audio Examples
 
