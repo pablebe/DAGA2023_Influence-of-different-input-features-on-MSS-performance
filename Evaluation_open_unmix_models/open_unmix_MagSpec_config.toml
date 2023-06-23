@@ -1,0 +1,16 @@
+target = ['vocals']
+n_targets = 1
+dataset = 'sourcefolder'
+checkpoint_path = '../Training_MagSpec_based_open_unmix/checkpoints'
+log_path = '../Training_MagSpec_based_open_unmix/Logs'
+unidirectional = false
+nfft = 4096
+nhop = 1024
+hidden_size = 512
+bandwidth = 16000
+nb_channels = 2
+nb_layers = 3
+debug = false
+quiet = false
+seed = 42
+seq_dur = 10

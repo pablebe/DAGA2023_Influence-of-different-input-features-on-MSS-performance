@@ -1,0 +1,15 @@
+musdb_root = '/home/bereuter/datasets/musdb18hq'
+musdb_train = '/home/bereuter/datasets/musdb18hq/train'
+musdb_test = '/home/bereuter/datasets/musdb18hq/test'
+
+
+musdb_tuned_root = '/home/bereuter/datasets/musdb18hq_tuned_to_440_Hz'
+musdb_tuned_train = '/home/bereuter/datasets/musdb18hq_tuned_to_440_Hz/train'
+musdb_tuned_test = '/home/bereuter/datasets/musdb18hq_tuned_to_440_Hz/test'
+
+
+baby_slakh_train = '/Users/Paul/IEM-Phd/03_PhD/01_Datasets/babyslakh_16k'
+slakh_train = '/Users/Paul/IEM-Phd/03_PhD/01_Datasets/slakh2100_flac_redux/train'
+slakh_valid = '/Users/Paul/IEM-Phd/03_PhD/01_Datasets/slakh2100_flac_redux/validation'
+slakh_test = '/Users/Paul/IEM-Phd/03_PhD/01_Datasets/slakh2100_flac_redux/test'
+
