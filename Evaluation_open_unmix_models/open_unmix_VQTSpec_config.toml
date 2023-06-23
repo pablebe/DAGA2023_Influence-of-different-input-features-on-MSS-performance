@@ -1,0 +1,17 @@
+target = ['vocals']
+n_targets = 1
+dataset = 'sourcefolder'
+checkpoint_path = '../Training_VQTSpec_based_open_unmix/checkpoints'
+log_path = '../Training_VQTSpec_based_open_unmix/Logs'
+unidirectional = false
+fmin = 110
+qvar = 1.36
+bins_per_octave = 72
+hidden_size = 512
+bandwidth = 16000
+nb_channels = 2
+nb_layers = 3
+debug = false
+quiet = false
+seed = 42
+seq_dur = 5
