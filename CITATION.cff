@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DAGA2023: Influence of different input features on MSS
+  performance
+message: >-
+  If you want to reuse any part of this code, which has not
+  been published with any of the mentioned refrences, we
+  would appreciate if you'd cite our work.
+type: software
+authors:
+  - given-names: Paul Armin
+    family-names: Bereuter
+    email: bereuter@iem.at
+    affiliation: >-
+      PhD-student @ Institute of Electronic Music and
+      Acoustics, Graz
+    orcid: 'https://orcid.org/0009-0003-9530-337X'
+identifiers:
+  - type: url
+    value: >-
+      https://pub.dega-akustik.de/DAGA_2023/data/articles/000539.pdf
+    description: Link to the corresponding conference paper
+repository-code: >-
+  https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance
+abstract: >-
+  This repository contains the code to train and evaluate
+  different NN-based models for singing voice separation
+  based on the well-known Open-Unmix (UMX) framework. The
+  work was presented at the DAGA 2023 in Hamburg.
+keywords:
+  - Singing Voice Separation
+  - Musical Source Separation
+  - Open-Unmix
+license: MIT
