@@ -54,7 +54,7 @@ Please note that for the evaluation of all models, the weights of the trained mo
 Below you can listen to the results of 6 models trained with different input features and or loss functions, as presented in the results of ([Bereuter, Sontacchi 2023](https://pub.dega-akustik.de/DAGA_2023/data/articles/000539.pdf)).
 The audio material is taken from the [MUSDB18-HQ](https://doi.org/10.5281/zenodo.3338373) test set (The Long Wait - Dark Horses).
 
-
+If the examples below do not work, the folder `audio_examples` contains the *.mov*-files of all audio examples. 
 
 
 https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/fe55e257-9969-46f3-a6aa-c4d4ff3e20d4
