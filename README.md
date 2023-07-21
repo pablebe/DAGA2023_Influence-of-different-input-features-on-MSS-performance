@@ -54,23 +54,27 @@ Please note that for the evaluation of all models, the weights of the trained mo
 Below you can listen to the results of 6 models trained with different input features and or loss functions, as presented in the results of ([Bereuter, Sontacchi 2023](https://pub.dega-akustik.de/DAGA_2023/data/articles/000539.pdf)).
 The audio material is taken from the [MUSDB18-HQ](https://doi.org/10.5281/zenodo.3338373) test set (The Long Wait - Dark Horses).
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/45793054-a5cc-4ee1-8586-5bc32cdf9a6a
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/8637d73f-191e-49a1-9719-276468727cb7
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/a7ec8031-b045-45d8-b0d0-979d603fb830
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/e2e95e5f-f049-4765-931d-05e5ff625136
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/fe55e257-9969-46f3-a6aa-c4d4ff3e20d4
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/64cb6770-5ca5-40d2-aca8-bc4e330b5004
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/a9e5e8c9-808d-4055-a198-288e9439ae0a
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/685d0dca-2821-4fa0-9de2-3cbdc9ec262f
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/89c1b31c-ca1b-448b-84ee-f5af8bc7c802
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/4e8a6ee6-fca2-404e-8948-76a4325e5658
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/8c3a3906-a11e-4bda-9b52-eaf64bec1eb0
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/b24c7ec2-6693-4b61-9810-581eaabbf822
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/6ef363cd-27a2-4d37-ba84-8c3fb7ea1cf7
 
-https://github.com/pablebe/Influence-of-different-input-features-on-MSS-performance/assets/58364449/d4bb772d-6ad8-4706-8c67-e42f4cb1f0d7
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/25e23315-b7a4-4e8d-8e3f-4df40b10f14e
+
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/82f3f781-4493-46fd-94ea-6ad6ce5bf9d2
+
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/9ec5ac66-6f90-433f-be85-eeaf02a66e62
+
+https://github.com/pablebe/DAGA2023_Influence-of-different-input-features-on-MSS-performance/assets/58364449/62b10614-7cbc-471b-a8c9-07b2a9a22f56
+
 
 ## References
 
